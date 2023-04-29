@@ -1,0 +1,9 @@
+be/kuleuven/foodrestservice/controllers/MealsRestController.class
+be/kuleuven/foodrestservice/exceptions/MealNotFoundAdvice.class
+be/kuleuven/foodrestservice/domain/MealsRepository.class
+be/kuleuven/foodrestservice/domain/Order.class
+be/kuleuven/foodrestservice/exceptions/MealNotFoundException.class
+be/kuleuven/foodrestservice/domain/Meal.class
+be/kuleuven/foodrestservice/controllers/MealsRestRpcStyleController.class
+be/kuleuven/foodrestservice/domain/MealType.class
+be/kuleuven/foodrestservice/FoodRestServiceApplication.class

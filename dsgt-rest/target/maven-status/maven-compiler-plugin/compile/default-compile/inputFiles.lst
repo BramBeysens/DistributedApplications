@@ -1,0 +1,9 @@
+/home/bram/Desktop/Distributed_Applications/session2/dsgt-rest/src/main/java/be/kuleuven/foodrestservice/FoodRestServiceApplication.java
+/home/bram/Desktop/Distributed_Applications/session2/dsgt-rest/src/main/java/be/kuleuven/foodrestservice/exceptions/MealNotFoundAdvice.java
+/home/bram/Desktop/Distributed_Applications/session2/dsgt-rest/src/main/java/be/kuleuven/foodrestservice/domain/MealsRepository.java
+/home/bram/Desktop/Distributed_Applications/session2/dsgt-rest/src/main/java/be/kuleuven/foodrestservice/controllers/MealsRestRpcStyleController.java
+/home/bram/Desktop/Distributed_Applications/session2/dsgt-rest/src/main/java/be/kuleuven/foodrestservice/domain/Meal.java
+/home/bram/Desktop/Distributed_Applications/session2/dsgt-rest/src/main/java/be/kuleuven/foodrestservice/exceptions/MealNotFoundException.java
+/home/bram/Desktop/Distributed_Applications/session2/dsgt-rest/src/main/java/be/kuleuven/foodrestservice/controllers/MealsRestController.java
+/home/bram/Desktop/Distributed_Applications/session2/dsgt-rest/src/main/java/be/kuleuven/foodrestservice/domain/MealType.java
+/home/bram/Desktop/Distributed_Applications/session2/dsgt-rest/src/main/java/be/kuleuven/foodrestservice/domain/Order.java
